@@ -6,3 +6,4 @@ The original dataset used to create this Dataset is availible [here](https://www
 ## This repositorie contains:
 - **Dataset**: which contains the stock prices of GOOGLE, AMAZON, APPLE, NETFLIX per month from January 2010 to December 2020.
 - **Notebook**: Used to turn the original dataset to the modified one.
+- **Html File**: Contains the source code for the data visualisation using D3.JS
