@@ -7,3 +7,4 @@ The original dataset used to create this Dataset is availible [here](https://www
 - **Dataset**: which contains the stock prices of GOOGLE, AMAZON, APPLE, NETFLIX per month from January 2010 to December 2020.
 - **Notebook**: Used to turn the original dataset to the modified one.
 - **Html File**: Contains the source code for the data visualisation using D3.JS
+- **Demo**: The link to the deployed page [Here](https://ilyes14hat.github.io/Visualisation_using_D3.JS_of_average_stock_prices_GAAN_Dataset/)
